@@ -2,7 +2,7 @@
 
 Ohmstore is an e-commerce website for browsing and purchasing electronics, gadgets, and accessories. Built with Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS, and shadcn/ui, it provides a modern, responsive, and user-friendly shopping experience.
 
-##Team
+## Team
 
 - **Name:** Dustin Howell Carreon | **GitHub:** devbydustin | **Role:** Product Owner
 - **Name:** Prince Jefferson Aquino | **GitHub:** Pj069 | **Role:** QA / Scrum Master
