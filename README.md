@@ -1,7 +1,5 @@
 # Ohmstore
 
-## Team
-
 - **Name:** Dustin Howell Carreon | **GitHub:** devbydustin | **Role:** Product Owner
 - **Name:** Prince Jefferson Aquino | **GitHub:** Pj069 | **Role:** QA / Scrum Master
 - **Name:** Kyle Ryzen Anzures | **GitHub:** anzureskyleryzen | **Role:** QA / Scrum Master
