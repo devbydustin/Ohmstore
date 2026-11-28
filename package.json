@@ -1,0 +1,25 @@
+{
+  "name": "ohmstore",
+  "version": "1.0.0",
+  "description": "Ohmstore is an e-commerce website for browsing and purchasing electronics, gadgets, and accessories. Built with Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS, and shadcn/ui, it provides a modern, responsive, and user-friendly shopping experience.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbydustin/Ohmstore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devbydustin/Ohmstore/issues"
+  },
+  "homepage": "https://github.com/devbydustin/Ohmstore#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
